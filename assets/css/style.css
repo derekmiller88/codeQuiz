@@ -1,0 +1,58 @@
+h1 {
+    
+}
+
+.grid {
+    width: 600px;
+    height: 500px;
+    margin: 0 auto;
+    padding: 10px 50px 50px 50px;
+}
+
+#score {
+    font-size: 20px;
+}
+
+.grid #question {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.buttons {
+    margin-top: 30px;
+}
+
+#btn0, #btn1, #btn2, #btn3 {
+    background-color: #af01ff;
+    width: 250px;
+    font-size: 20px;
+    color: #fff;
+    border: 1px solid #000000;
+    margin: 10px 40px 10px 0px;
+    padding: 10px 10px;
+}
+
+#btn0:hover, #btn1:hover, #btn2:hover, #btn3:hover {
+    cursor: pointer;
+    opacity: .8;
+}
+
+#btn0:focus, #btn1:focus, #btn2:focus, #btn3:focus {
+    outline: 0;
+}
+
+#buttonScore {
+    background-color: #af01ff;
+    font-size: 14px;
+    color: #fff;
+    border: 1px solid #000000;
+    margin-left: 5px;
+}
+
+#buttonScore:hover {
+    cursor: pointer;
+}
+
+#textScore:hover {
+    border-color: blue;
+}
