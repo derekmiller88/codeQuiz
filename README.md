@@ -1,6 +1,6 @@
 # codeQuiz
 
-![codeQuiz screenshot](/assets/images/taskinatorScreenshot.jpg?raw=true "codeQuiz screenshot")
+![codeQuiz screenshot](/assets/images/codeQuizScreenshot.jpg?raw=true "codeQuiz screenshot")
 
 ## codeQuiz is a javascript-enabled quiz that was built using HTML, CSS, and Javascript. 
 
