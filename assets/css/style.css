@@ -1,7 +1,5 @@
-h1 {
-    
-}
 
+/* grid class styles used for all three dynamically generated pages */
 .grid {
     width: 600px;
     height: 500px;
@@ -13,6 +11,7 @@ h1 {
     font-size: 20px;
 }
 
+/* style for the questions */
 .grid #question {
     font-size: 30px;
     font-weight: bold;
@@ -22,6 +21,7 @@ h1 {
     margin-top: 30px;
 }
 
+/* style for the buttons the user has to select from during the quiz */
 #btn0, #btn1, #btn2, #btn3 {
     background-color: #af01ff;
     width: 200px;
@@ -32,6 +32,7 @@ h1 {
     padding: 10px 10px;
 }
 
+/* added feature for when buttons are hovered over */
 #btn0:hover, #btn1:hover, #btn2:hover, #btn3:hover {
     cursor: pointer;
     opacity: .8;
@@ -41,6 +42,7 @@ h1 {
     outline: 0;
 }
 
+/* These buttons styles are reused for both the user score and final score pages */
 #buttonScore {
     background-color: #af01ff;
     font-size: 14px;
